@@ -1,0 +1,4 @@
+Ignore providers file
+
+*.terraform*
+*.tfstate*
